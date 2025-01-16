@@ -1,0 +1,14 @@
+#btnTask {
+    border: 1px solid black;
+    width: 80px;
+    height: 30px;
+}
+#taskInput {
+    border: 1px solid black;
+    width: 160px;
+    height: 20px;
+}
+ul li{
+    padding:5px;
+    margin: 5px;
+}
